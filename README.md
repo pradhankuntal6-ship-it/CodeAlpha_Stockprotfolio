@@ -137,7 +137,3 @@ Concepts demonstrated: dictionaries, input/output, basic arithmetic, file handli
 ## Contributing
 
 Suggestions and pull requests are welcome.
-
-## License
-
-Add a license of your choice (for example MIT).
